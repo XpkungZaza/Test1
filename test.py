@@ -1,1 +1,1 @@
-print("StacKpython")
+print("Hello, World!") , print("Hello, World!")
